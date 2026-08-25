@@ -1,7 +1,7 @@
-Luvvy Dishonored Independent Overlay v0.8.0
+## Luvvy Dishonored Independent Overlay v0.8.0
 
 
-MENU
+## MENU
 Immortal
 Never Detected
 Infinite Mana
@@ -24,13 +24,13 @@ Max Powers
 Max Upgrades
 Kill All Rats
 
-CONTROLS
+## CONTROLS
 F10 = open / close
 Up / Down = navigate
 Enter = toggle or run selected action
 Esc = close overlay
 
-INSTALL
+## INSTALL
 1. Fully close Dishonored.
 2. Extract into the game root.
 3. Overwrite Binaries\Win32\Mods\ModLoader.dll.
