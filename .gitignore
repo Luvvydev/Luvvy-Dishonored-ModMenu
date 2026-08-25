@@ -1,0 +1,7 @@
+*.log
+*.previous
+*.bak
+*.tmp
+build/
+out/
+.vs/
